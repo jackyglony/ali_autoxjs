@@ -1,0 +1,13 @@
+{
+  "name": "支付宝生活小视频",
+  "main": "main.js",
+  "ignore": [
+      "build"
+  ],
+  "launchConfig": {
+      "hideLogs": true
+  },
+  "packageName": "com.alipay",
+  "versionName": "1.0.0",
+  "versionCode": 1
+}
