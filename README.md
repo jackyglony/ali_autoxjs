@@ -88,3 +88,7 @@ var w = floatyWindow(layoutContent);
 
 ## 使用webview，等方式构建应用
 [auto.pro](https://github.com/molysama/auto.pro) 可以ts 来编写脚本，构建应用。 如果希望该项目应用 自动部署到手机等功能，请自行配置webpack.config.js即可
+
+
+
+## 支付宝生活视频自动刷屏脚本，赚取线下支付红包
